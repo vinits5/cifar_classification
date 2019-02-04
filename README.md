@@ -18,7 +18,7 @@ Copy the cifar-10-batches-py.zip file in this repository and extract here.
 Start the training: *python train.py --mode train*\
 Test the network: *python train.py --mode test*\
 
-Start training with additional parameters: *python train.py --mode train --args value*\
+Start training with additional parameters: *python train.py --mode train --args value*
 
 ### Parameters:
 **Args:				Description**\
