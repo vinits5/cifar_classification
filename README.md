@@ -16,7 +16,7 @@ Copy the cifar-10-batches-py.zip file in this repository and extract here.
 **[read_data.py](https://github.com/vinits5/cifar_classification/blob/master/read_data.py)** is just to show you how to read data and visualize images.
 
 Start the training: *python train.py --mode train*\
-Test the network: *python train.py --mode test*\
+Test the network: *python train.py --mode test*
 
 Start training with additional parameters: *python train.py --mode train --args value*
 
