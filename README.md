@@ -20,9 +20,9 @@ Test the network: *python train.py --mode test*\
 
 Start training with additional parameters: *python train.py --mode train --args value*\
 
-###Parameters:
-**args				Description**
-mode: 				train or test\
+### Parameters:
+**args              Description**\
+mode:               train or test\
 model: 				classifier or classifier_VGG\
 log_dir:			store all log data of training.\
 img_size:			Size of image in CIFAR-10 (32x32x3)\
