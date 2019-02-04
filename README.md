@@ -3,7 +3,7 @@
 This repository contains CNN for classification of CIFAR-10 dataset.
 
 ## Dataset:
-Download the ![CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) with python version of size 163 MB by Torronto University.\
+Download the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) with python version of size 163 MB by Torronto University.\
 This dataset has 10 categories as follows:\
 *airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck*\
 Copy the cifar-10-batches-py.zip file in this repository and extract here.
